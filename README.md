@@ -23,6 +23,7 @@ The application is designed with server-side rendering (SSR) and responsive desi
 **🚀 How to Install and Run Locally**
 
 Clone the Repository:
+
 ```git clone https://github.com/your-username/wanderlust.git```
 
 Navigate to the Project Directory:
@@ -75,4 +76,5 @@ Add Listings Page
 **🌟 Future Enhancements**
 
 Payment Integration: Add a payment gateway for property bookings.
+
 Recommendation System: Suggest properties based on user preferences and browsing history.
